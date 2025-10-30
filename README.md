@@ -1,6 +1,6 @@
-# BrainVarBrainHack_2026
+# BrainVarBrainHack_2025
 
-This repository contains the public code associated with the project "BrainVarBrainHack_2026". People involved:
+This repository contains the public code associated with the project "BrainVarBrainHack_2025". People involved:
 
 
 Nina
